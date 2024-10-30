@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para um projeto de uma página de receitas:
-
----
-
 # 🍲 Projeto de Página de Receita
 
 Este é um projeto simples de uma página de receita, desenvolvido durante as aulas da Rocketseat. A ideia é criar uma página web onde você pode visualizar receitas culinárias de forma clara e prática.
